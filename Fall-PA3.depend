@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1626945332 source:c:\users\ata_k\onedrive\masaüstü\fall-pa3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"Header.h"
+
+1626945289 c:\users\ata_k\onedrive\masaüstü\fall-pa3\header.h
+
